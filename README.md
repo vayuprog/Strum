@@ -1,1 +1,1 @@
-# Strum
+STRUM - a site intended for musicians and performers, offers the opportunity to create bands, communicate, and choose genres and musical instruments used by artists. Its main goal is to help young and promising musicians discover themselves and draw the attention of famous labels.
